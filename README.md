@@ -1,2 +1,3 @@
 # belajar-kolaborasi  
-Membuat Branch
+* Membuat Branch
+* Menambahkan Pesan baru

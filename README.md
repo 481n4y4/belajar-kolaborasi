@@ -3,5 +3,3 @@
 * Menambahkan Pesan baru
 * Lorem Ipsum
 * dolor sit amet,
-* consectetur adipiscing elit,
-
